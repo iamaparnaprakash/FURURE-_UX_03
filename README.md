@@ -151,7 +151,7 @@ Interface for capturing lead information, contact details, estimated value, and 
 ---
 
 ### Client Directory
-![Client Directory]
+![Client Directory]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/client%20directory.jpg
 
 Centralized client management system displaying client information, engagement status, and account summaries.
 
