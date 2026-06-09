@@ -165,7 +165,7 @@ Detailed client profile containing revenue insights, engagement history, key con
 ---
 
 ### Tasks & Follow-ups
-![Tasks & Follow-ups]
+![Tasks & Follow-ups]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/task%20and%20follow%20ups.jpg
 
 Task management dashboard for tracking deadlines, priorities, and follow-up activities.
 
