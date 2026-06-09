@@ -130,7 +130,7 @@ Designed a clean and modern interface using consistent spacing, typography, and 
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview] (Screenshots/dashboard.jpg)
+![Dashboard Overview] (dashboard.jpg)
 
 Provides a complete overview of business performance including lead metrics, conversion trends, team performance, tasks, and recent activities.
 
