@@ -158,7 +158,8 @@ Centralized client management system displaying client information, engagement s
 ---
 
 ### Client Profile & Engagement View
-![Client Profile]
+![Client Profile]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/clients.jpg
+
 Detailed client profile containing revenue insights, engagement history, key contacts, and account details.
 
 ---
