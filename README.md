@@ -130,7 +130,7 @@ Designed a clean and modern interface using consistent spacing, typography, and 
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview] (dashboard.jpg)
+![Dashboard Overview]
 
 Provides a complete overview of business performance including lead metrics, conversion trends, team performance, tasks, and recent activities.
 
@@ -151,7 +151,7 @@ Interface for capturing lead information, contact details, estimated value, and 
 ---
 
 ### Client Directory
-![Client Directory]
+![Client Directory]content://media/external/downloads/1000100409
 Centralized client management system displaying client information, engagement status, and account summaries.
 
 ---
