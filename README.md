@@ -144,7 +144,7 @@ Visual Kanban-style lead management system for tracking opportunities through di
 ---
 
 ### Create New Lead
-![Create New Lead]
+![Create New Lead]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/new%20lead.jpg
 
 Interface for capturing lead information, contact details, estimated value, and project requirements.
 
