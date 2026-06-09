@@ -172,7 +172,7 @@ Task management dashboard for tracking deadlines, priorities, and follow-up acti
 ---
 
 ### Task Detail Management
-![Task Detail]
+![Task Detail]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/edit%20task.jpg
 
 Detailed task editing interface with reminders, attachments, and activity logs.
 
