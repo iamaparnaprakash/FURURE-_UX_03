@@ -179,7 +179,7 @@ Detailed task editing interface with reminders, attachments, and activity logs.
 ---
 
 ### Lead Details Panel
-![Lead Details]
+![Lead Details]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/lead%20pipeline.jpg
 
 Expanded lead information panel showing timeline updates, proposal tracking, and conversion actions.
 
