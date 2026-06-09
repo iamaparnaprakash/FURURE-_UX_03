@@ -137,7 +137,7 @@ Provides a complete overview of business performance including lead metrics, con
 ---
 
 ### Lead Pipeline Funnel
-![Lead Pipeline Funnel]
+![Lead Pipeline Funnel]https://github.com/iamaparnaprakash/FURURE-_UX_03/blob/main/lead%20pipeline%20funnel.jpg
 
 Visual Kanban-style lead management system for tracking opportunities through different sales stages.
 
