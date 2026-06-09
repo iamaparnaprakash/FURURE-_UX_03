@@ -130,56 +130,54 @@ Designed a clean and modern interface using consistent spacing, typography, and 
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview]
 
 Provides a complete overview of business performance including lead metrics, conversion trends, team performance, tasks, and recent activities.
 
 ---
 
 ### Lead Pipeline Funnel
-![Lead Pipeline Funnel](Screenshots/lead-pipeline-funnel.png)
+![Lead Pipeline Funnel]
 
 Visual Kanban-style lead management system for tracking opportunities through different sales stages.
 
 ---
 
 ### Create New Lead
-![Create New Lead](Screenshots/create-lead.png)
+![Create New Lead]
 
 Interface for capturing lead information, contact details, estimated value, and project requirements.
 
 ---
 
 ### Client Directory
-![Client Directory](Screenshots/client-directory.png)
-
+![Client Directory]
 Centralized client management system displaying client information, engagement status, and account summaries.
 
 ---
 
 ### Client Profile & Engagement View
-![Client Profile](Screenshots/client-profile.png)
-
+![Client Profile]
 Detailed client profile containing revenue insights, engagement history, key contacts, and account details.
 
 ---
 
 ### Tasks & Follow-ups
-![Tasks & Follow-ups](Screenshots/tasks-followups.png)
+![Tasks & Follow-ups]
 
 Task management dashboard for tracking deadlines, priorities, and follow-up activities.
 
 ---
 
 ### Task Detail Management
-![Task Detail](Screenshots/task-detail.png)
+![Task Detail]
 
 Detailed task editing interface with reminders, attachments, and activity logs.
 
 ---
 
 ### Lead Details Panel
-![Lead Details](Screenshots/lead-details-panel.png)
+![Lead Details]
 
 Expanded lead information panel showing timeline updates, proposal tracking, and conversion actions.
 
