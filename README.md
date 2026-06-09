@@ -151,7 +151,7 @@ Interface for capturing lead information, contact details, estimated value, and 
 ---
 
 ### Client Directory
-![Client Directory]content://media/external/downloads/1000100409
+![Client Directory]
 Centralized client management system displaying client information, engagement status, and account summaries.
 
 ---
